@@ -1,0 +1,13 @@
+API - APPLICATION PROGRAM INTERFACE 
+
+API  enable two software components to communicate with each other using set of protocols and instructions. 
+in simple word API act as a waiter in restro to take your input to pass the input/order to kitchen/chef to perform/cooking  task and deliver your request/food back
+
+TYPES OF API - 
+1) - SOAP API - SOAP API USES XML for exchanging information .
+2)   RPC API  - It is also called a subroutine call or a function call. It provides ABSTRACTION. Client complete procedure on server and server send output back.
+3)   WEBSOCKET - USES JSON and support two way communication ,server can send callback .
+4)   REST-API    All communication done via REST API uses only HTTP request. A request is sent from client to server in the form of a web URL as
+                 HTTP GET or POST or PUT or DELETE request. After that, a response comes back from the server in the form of a resource which can
+                 be anything like HTML, XML, Image, or JSON
+                 it is statelessness - not save data b/w request-response
